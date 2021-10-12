@@ -18,7 +18,7 @@ gem 'mysql2', '>= 0.3.18', '< 0.6.0'
 # Use postgresql as the database for Active Record
 # gem 'pg', '>= 0.18', '< 2.0'
 # Use Puma as the app server
-gem 'puma', '~> 3.7'
+gem 'puma', '~> 4.3'
 # Use SCSS for stylesheets
 # TODO サポート終了が近いためRAILSからはDART SASSを推奨
 gem 'sass-rails', '~> 5.0'
